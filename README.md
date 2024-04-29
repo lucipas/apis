@@ -1,8 +1,6 @@
-# Cheat Sheet
-A template for writing cheat sheets for various things
-
+# API Cheat Sheet
+List of APIs that I use and how I use them.
 
 ## TOC
   * [Snippets](code/snippets.md)
-  * [Modules](modules/modules.md)
-  * [Syntax](syntax/syntax.md)
+  * [APIS](modules/modules.md)
